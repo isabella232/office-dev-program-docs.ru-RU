@@ -1,0 +1,7 @@
+## <a name="microsoft-open-source-code-of-conduct"></a><span data-ttu-id="ab9bc-101">Правила поведения Майкрософт, касающиеся обращения с открытым кодом</span><span class="sxs-lookup"><span data-stu-id="ab9bc-101">Microsoft Open Source Code of Conduct</span></span>
+
+<span data-ttu-id="ab9bc-102">Этот проект соответствует [правилам поведения Майкрософт, касающимся обращения с открытым кодом](https://opensource.microsoft.com/codeofconduct/).</span><span class="sxs-lookup"><span data-stu-id="ab9bc-102">This project has adopted the [Microsoft Open Source Code of Conduct](https://opensource.microsoft.com/codeofconduct/).</span></span>
+
+<span data-ttu-id="ab9bc-103">Дополнительные сведения см. в статье [Вопросы и ответы о правилах поведения](https://opensource.microsoft.com/codeofconduct/faq/).</span><span class="sxs-lookup"><span data-stu-id="ab9bc-103">For more information, see the [Code of Conduct FAQ](https://opensource.microsoft.com/codeofconduct/faq/) or contact opencode@microsoft.com with any additional questions or comments.</span></span> 
+
+<span data-ttu-id="ab9bc-104">С любыми дополнительными вопросами или комментариями обращайтесь по адресу [opencode@microsoft.com](mailto:opencode@microsoft.com).</span><span class="sxs-lookup"><span data-stu-id="ab9bc-104">For any additional questions or comments, contact [opencode@microsoft.com](mailto:opencode@microsoft.com).</span></span> 
