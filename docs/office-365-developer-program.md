@@ -1,22 +1,22 @@
 ---
 title: Присоединяйтесь к программе для разработчиков Office 365
-description: Присоединяйтесь к программе для разработчиков Office 365, чтобы создавать и тестировать решения Office 365 независимо от рабочей среды.
-ms.date: 03/20/2018
+description: Присоединяйтесь к программе для разработчиков Office 365, чтобы создавать решения Office 365 независимо от рабочей среды.
+ms.date: 04/01/2019
 localization_priority: Priority
-ms.openlocfilehash: 9f2c07a16af6e164032c66c1ee93ee45417567ca
-ms.sourcegitcommit: 5929843b58730078fa4a92a8cc3ab44291462585
+ms.openlocfilehash: a2c6c6436b915503463c30fb613c11949770b9b2
+ms.sourcegitcommit: 5d2444c7732b0312a8939cfa3671c3e7835aee3e
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28015116"
+ms.lasthandoff: 04/02/2019
+ms.locfileid: "31041986"
 ---
 # <a name="welcome-to-the-office-365-developer-program"></a>Добро пожаловать в программу для разработчиков Office 365
 
-Присоединяйтесь к вашим друзьям и коллегам в программе для разработчиков Office 365. Разрабатывайте и тестируйте решения независимо от рабочей среды с помощью подписки разработчика Office 365. Вы можете создавать решения для Microsoft Teams, надстроек Office, Microsoft Graph, SharePoint Framework, надстроек SharePoint и многого другого.
+Присоединяйтесь к вашим друзьям и коллегам в программе для разработчиков Office 365. Разрабатывайте решения независимо от рабочей среды с помощью подписки разработчика Office 365. Вы можете создавать решения для Microsoft Teams, надстроек Office, Microsoft Graph, SharePoint Framework, надстроек SharePoint и многого другого.
 
 ## <a name="join-the-office-365-developer-program"></a>Присоединяйтесь к программе для разработчиков Office 365
 
-1. Перейдите на страницу [Присоединяйтесь к программе для разработчиков Office 365](https://developer.microsoft.com/ru-RU/office/dev-program). 
+1. Перейдите на страницу [Присоединяйтесь к программе для разработчиков Office 365](https://developer.microsoft.com/office/dev-program). 
 
 2. В правом верхнем углу выберите пункт **Войти**, чтобы выполнить вход с помощью учетной записи Майкрософт или электронной почты с поддержкой Azure Active Directory. 
 
@@ -28,7 +28,7 @@ ms.locfileid: "28015116"
 
   - **Контактный адрес электронной почты**
   - **Страна или регион**
-  - **Компания**
+  - **Организация**
 
   <img alt="Join the Office 365 Developer Program form" src="images/1-welcome-page.png" width="500">
 
@@ -57,4 +57,8 @@ ms.locfileid: "28015116"
 
 - После получения подписки разработчика [используйте ее](build-office-365-solutions.md) для создания нужных типов решений.
 
-- Ответы на часто задаваемые вопросы о программе для разработчиков Office 365 см. в статье [Вопросы и ответы](office-365-developer-program-faq.md). 
+- Сведения о завершающихся подписках см. в статье [Окончание и продление срока действия подписки](subscription-expiration-and-renewal.md).
+
+- Ответы на часто задаваемые вопросы о программе для разработчиков Office 365 см. в статье [Вопросы и ответы](office-365-developer-program-faq.md).
+
+
