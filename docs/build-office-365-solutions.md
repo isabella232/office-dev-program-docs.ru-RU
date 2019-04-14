@@ -3,12 +3,12 @@ title: Создание решений для Office 365 с помощью по�
 description: Используйте подписку разработчика Office 365, чтобы создавать нужные решения.
 ms.date: 03/20/2018
 localization_priority: Priority
-ms.openlocfilehash: 375514e1bc42742810c4d8a56a59fe24140abb27
-ms.sourcegitcommit: 5d2444c7732b0312a8939cfa3671c3e7835aee3e
+ms.openlocfilehash: 624ff0c7feb8eb5a824c68e337c48bff39aed747
+ms.sourcegitcommit: 49693a2a5529e1371f0f9fac4e6f6db7dcbf010a
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/02/2019
-ms.locfileid: "31042000"
+ms.lasthandoff: 04/11/2019
+ms.locfileid: "31808102"
 ---
 # <a name="use-your-developer-subscription-to-build-office-365-solutions"></a>Создание решений для Office 365 с помощью подписки разработчика
 
@@ -24,7 +24,7 @@ Microsoft Teams — это рабочая область Office 365, соде�
 2. Настройка среды разработки. Этот процесс зависит от создаваемого типа приложения или службы. Дополнительные сведения см. в одном из следующих разделов:
 
   - [Начало работы на платформе Microsoft Teams с использованием Node.js](https://docs.microsoft.com/microsoftteams/platform/get-started/get-started-nodejs-app-studio)
-  - [Начало работы на платформе Microsoft Teams с использованием C#/.NET]https://docs.microsoft.com/en-us/microsoftteams/platform/get-started/get-started-dotnet-app-studio)
+  - [Начало работы на платформе Microsoft Teams с использованием C#/.NET](https://docs.microsoft.com/en-us/microsoftteams/platform/get-started/get-started-dotnet-app-studio)
 
 ## <a name="microsoft-graph"></a>Microsoft Graph
 
@@ -60,7 +60,7 @@ Microsoft Teams — это рабочая область Office 365, соде�
 
 ## <a name="see-also"></a>См. также
 
-- [Присоединяйтесь к программе для разработчиков Office 365](office-365-developer-program.md)
+- [Добро пожаловать в программу для разработчиков Office 365](office-365-developer-program.md)
 - [Настройка подписки разработчика Office 365](office-365-developer-program-get-started.md) 
 - [Продление подписки с истекающим сроком действия](subscription-expiration-and-renewal.md)
 - [Вопросы и ответы о программе для разработчиков Office 365](office-365-developer-program-faq.md) 
