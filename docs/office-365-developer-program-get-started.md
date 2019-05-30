@@ -4,11 +4,11 @@ description: Настройте подписку разработчика Office
 ms.date: 04/01/2019
 localization_priority: Priority
 ms.openlocfilehash: 32b32847b50c16c8b8f16b360318af1f18d8d69b
-ms.sourcegitcommit: 5d2444c7732b0312a8939cfa3671c3e7835aee3e
+ms.sourcegitcommit: 410ec6b3bcd545f953df04f831fbdd4954232927
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/02/2019
-ms.locfileid: "31042007"
+ms.lasthandoff: 05/28/2019
+ms.locfileid: "34490961"
 ---
 # <a name="set-up-an-office-365-developer-subscription"></a>Настройка подписки разработчика Office 365 
 

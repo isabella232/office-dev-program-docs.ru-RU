@@ -3,12 +3,12 @@ title: Вопросы и ответы о программе для разраб�
 description: Ответы на часто задаваемые вопросы о программе для разработчиков Office 365.
 ms.date: 04/01/2019
 localization_priority: Priority
-ms.openlocfilehash: cc87dd169705e4ac37e521ef8ca5d8529d810fe7
-ms.sourcegitcommit: 5d2444c7732b0312a8939cfa3671c3e7835aee3e
+ms.openlocfilehash: 5b18c4e3632b8e498798e7238cbd7342c270eb8d
+ms.sourcegitcommit: 410ec6b3bcd545f953df04f831fbdd4954232927
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/02/2019
-ms.locfileid: "31042014"
+ms.lasthandoff: 05/28/2019
+ms.locfileid: "34490980"
 ---
 # <a name="office-365-developer-program-faq"></a>Вопросы и ответы о программе для разработчиков Office 365
 
@@ -70,7 +70,7 @@ ms.locfileid: "31042014"
 - [Flow для Office 365 (план 2)](https://flow.microsoft.com/pricing/)
 - [Microsoft Forms (план E5)](https://support.office.com/article/Frequently-asked-questions-about-Microsoft-Forms-495c4242-6102-40a0-add8-df05ed6af61c)
 - [Планировщик (Майкрософт)](https://products.office.com/compare-all-microsoft-office-products?tab=2)
-- [Microsoft Stream для SKU Office 365 E5](https://products.office.com/business/office-365-enterprise-e5-business-software)
+- [Microsoft Stream для SKU Office 365 E5](https://products.office.com/business/office-365-enterprise-e5-business-software)
 - [Microsoft Teams](https://products.office.com/business/office-365-enterprise-e5-business-software)
 - [Управление мобильными устройствами для Office 365](https://support.office.com/article/Set-up-Mobile-Device-Management-MDM-in-Office-365-dd892318-bc44-4eb1-af00-9db5430be3cd)
 - [Office 365 профессиональный плюс](https://products.office.com/business/office-365-proplus-business-software)
@@ -78,7 +78,7 @@ ms.locfileid: "31042014"
 - [SharePoint Online для разработчиков](https://products.office.com/SharePoint/compare-sharepoint-plans)
 - [Skype для бизнеса Online (план 2)](https://products.office.com/skype-for-business/online-meeting-solutions)
 - [Sway](https://sway.com/)
-- [To-Do (план 3)](https://todo.microsoft.com)
+- [To-Do (план 3)](https://todo.microsoft.com)
 
 ## <a name="does-the-subscription-also-include-a-subscription-to-azure"></a>Включает ли эта подписка также подписку на Azure?
 

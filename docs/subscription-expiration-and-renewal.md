@@ -4,11 +4,11 @@ description: Сведения о продлении подписки для ра
 ms.date: 04/01/2019
 localization_priority: Priority
 ms.openlocfilehash: 73a286f4a9b3cd4b85237aafcac0adf45e453e7d
-ms.sourcegitcommit: 5d2444c7732b0312a8939cfa3671c3e7835aee3e
+ms.sourcegitcommit: 410ec6b3bcd545f953df04f831fbdd4954232927
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/02/2019
-ms.locfileid: "31044680"
+ms.lasthandoff: 05/28/2019
+ms.locfileid: "34491066"
 ---
 # <a name="office-365-developer-program-subscription-expiration-and-renewal"></a>Окончание срока действия подписки на программу для разработчиков Office 365 и его продление
 
@@ -59,7 +59,7 @@ ms.locfileid: "31044680"
 Сведения о переносе данных из текущей подписки в новую приведены здесь:
 
 - [Перенос почтовых ящиков из одного клиента Office 365 в другой](https://docs.microsoft.com/exchange/mailbox-migration/migrate-mailboxes-across-tenants)
-- [Поэтапная миграция в Office 365 с помощью PowerShell](https://docs.microsoft.com/office365/enterprise/powershell/use-powershell-to-perform-a-staged-migration-to-office-365)
+- [Поэтапная миграция в Office 365 с помощью PowerShell](https://docs.microsoft.com/office365/enterprise/powershell/use-powershell-to-perform-a-staged-migration-to-office-365)
 - [Переход с одной подписки Office 365 на другую без сторонних средств](https://social.technet.microsoft.com/Forums/en-US/ee507441-eb91-4b0a-ba6c-5bd9bb8c71b1/migration-from-one-o365-tenant-to-another-o365-without-third-party?forum=onlineservicesmigrationandcoexistence)
 
 ## <a name="how-do-i-know-if-my-subscription-was-deleted"></a>Как узнать, удалена ли моя подписка?
@@ -70,10 +70,10 @@ ms.locfileid: "31044680"
 
 ## <a name="see-also"></a>См. также
 
-- [Добро пожаловать в программу для разработчиков Office 365](office-365-developer-program.md)
-- [Настройка подписки для разработчиков Office 365](office-365-developer-program-get-started.md)
-- [Создание решений для Office 365 с помощью подписки](build-office-365-solutions.md)
-- [Вопросы и ответы касательно программы для разработчиков Office 365](office-365-developer-program-faq.md)
+- [Присоединяйтесь к программе для разработчиков Office 365](office-365-developer-program.md)
+- [Настройка подписки разработчика Office 365](office-365-developer-program-get-started.md)
+- [Создание решений для Office 365 с помощью подписки](build-office-365-solutions.md)
+- [Вопросы и ответы о программе для разработчиков Office 365](office-365-developer-program-faq.md)
 
 
 
