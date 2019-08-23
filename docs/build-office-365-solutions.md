@@ -24,8 +24,7 @@ Microsoft Teams — это рабочая область Office 365, соде�
 2. Настройка среды разработки. Этот процесс зависит от создаваемого типа приложения или службы. Дополнительные сведения см. в одном из следующих разделов:
 
   - [Начало работы на платформе Microsoft Teams с использованием Node.js](https://docs.microsoft.com/microsoftteams/platform/get-started/get-started-nodejs-app-studio)
-  - 
-  [Начало работы на платформе Microsoft Teams с использованием C#/.NET](https://docs.microsoft.com/ru-RU/microsoftteams/platform/get-started/get-started-dotnet-app-studio)
+  - [Начало работы на платформе Microsoft Teams с использованием C#/.NET](https://docs.microsoft.com/ru-RU/microsoftteams/platform/get-started/get-started-dotnet-app-studio)
 
 ## <a name="microsoft-graph"></a>Microsoft Graph
 

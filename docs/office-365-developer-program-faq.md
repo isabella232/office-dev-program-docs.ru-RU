@@ -68,25 +68,21 @@ ms.locfileid: "35916894"
 
 - [Exchange Online (план 2)](https://products.office.com/exchange/compare-microsoft-exchange-online-plans)
 - [Flow для Office 365](https://flow.microsoft.com/pricing/)
-- 
-  [Защита данных для Office 365 — Standard](https://products.office.com/ru-RU/business/azure-information-protection-for-office-365)
+- [Защита данных для Office 365 — Standard](https://products.office.com/ru-RU/business/azure-information-protection-for-office-365)
 - [Microsoft Forms (план E5)](https://support.office.com/article/Frequently-asked-questions-about-Microsoft-Forms-495c4242-6102-40a0-add8-df05ed6af61c)
 - [Планировщик (Майкрософт)](https://products.office.com/compare-all-microsoft-office-products?tab=2)
-- 
-  [Поиск (Майкрософт)](https://products.office.com/ru-RU/business/intelligent-search?tab=Discovery)
+- [Поиск (Майкрософт)](https://products.office.com/ru-RU/business/intelligent-search?tab=Discovery)
 - [Microsoft Stream для SKU Office 365 E5](https://products.office.com/business/office-365-enterprise-e5-business-software)
 - [Microsoft Teams](https://products.office.com/business/office-365-enterprise-e5-business-software)
 - [Управление мобильными устройствами для Office 365](https://support.office.com/article/Set-up-Mobile-Device-Management-MDM-in-Office-365-dd892318-bc44-4eb1-af00-9db5430be3cd)
 - [Office 365 профессиональный плюс](https://products.office.com/business/office-365-proplus-business-software)
-- 
-  [Office в Интернете](https://docs.microsoft.com/ru-RU/office365/servicedescriptions/office-online-service-description/office-online-service-description)
+- [Office в Интернете](https://docs.microsoft.com/ru-RU/office365/servicedescriptions/office-online-service-description/office-online-service-description)
 - [PowerApps для Office 365](https://powerapps.microsoft.com/pricing/)
 - [SharePoint Online для разработчиков](https://products.office.com/SharePoint/compare-sharepoint-plans)
 - [Skype для бизнеса Online (план 2)](https://products.office.com/skype-for-business/online-meeting-solutions)
 - [Sway](https://sway.com/)
 - [To-Do (план 3)](https://todo.microsoft.com)
-- 
-  [Доска (план 2)](https://products.office.com/ru-RU/microsoft-whiteboard/digital-whiteboard-app)
+- [Доска (план 2)](https://products.office.com/ru-RU/microsoft-whiteboard/digital-whiteboard-app)
 
 ## <a name="does-the-subscription-also-include-a-subscription-to-azure"></a>Включает ли эта подписка также подписку на Azure?
 
