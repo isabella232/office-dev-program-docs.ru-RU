@@ -24,13 +24,13 @@ Microsoft Teams — это рабочая область Office 365, соде�
 2. Настройка среды разработки. Этот процесс зависит от создаваемого типа приложения или службы. Дополнительные сведения см. в одном из следующих разделов:
 
   - [Начало работы на платформе Microsoft Teams с использованием Node.js](https://docs.microsoft.com/microsoftteams/platform/get-started/get-started-nodejs-app-studio)
-  - [Начало работы на платформе Microsoft Teams с использованием C#/.NET](https://docs.microsoft.com/ru-RU/microsoftteams/platform/get-started/get-started-dotnet-app-studio)
+  - [Начало работы на платформе Microsoft Teams с использованием C#/.NET](https://docs.microsoft.com/en-us/microsoftteams/platform/get-started/get-started-dotnet-app-studio)
 
 ## <a name="microsoft-graph"></a>Microsoft Graph
 
 Вы можете использовать Microsoft Graph для работы с данными миллионов пользователей в Microsoft Cloud. С помощью Microsoft Graph можно создавать приложения для организаций и потребителей, которые подключаются к различным ресурсам, отношениям и оповещениям через одну конечную точку: `https://graph.microsoft.com`.
 
-Чтобы выполнить настройку и написать код с помощью Microsoft Graph см. статью [Начало создания приложений Microsoft Graph](https://developer.microsoft.com/ru-RU/graph/get-started) или [Краткое руководство](https://developer.microsoft.com/ru-RU/graph/quick-start) по Microsoft Graph.
+Чтобы выполнить настройку и написать код с помощью Microsoft Graph см. статью [Начало создания приложений Microsoft Graph](https://developer.microsoft.com/en-us/graph/get-started) или [Краткое руководство](https://developer.microsoft.com/en-us/graph/quick-start) по Microsoft Graph.
 
 ## <a name="office-add-ins"></a>Надстройки Office
 
