@@ -1,26 +1,26 @@
 ---
-title: Окончание срока действия подписки на программу для разработчиков Office 365 и его продление
+title: Окончание срока действия подписки на программу для разработчиков Microsoft 365 и его продление
 description: Сведения о продлении подписки для разработчиков, срок действия которой заканчивается.
 ms.date: 04/01/2019
 localization_priority: Priority
-ms.openlocfilehash: f0be068369de8456bea86094139292a723938e31
-ms.sourcegitcommit: 2bc24a4f9dabc39b293698342ce0bf85bd117cdf
+ms.openlocfilehash: 0aa7907a7a2dbf1e1dec4fe5bf7192d8c4b23a54
+ms.sourcegitcommit: 9c7a1aa1c562adb350fefc8068e154fa6f9a4ee3
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/04/2019
-ms.locfileid: "36747119"
+ms.lasthandoff: 03/11/2020
+ms.locfileid: "42600797"
 ---
-# <a name="office-365-developer-program-subscription-expiration-and-renewal"></a>Окончание срока действия подписки на программу для разработчиков Office 365 и его продление
+# <a name="microsoft-365-developer-program-subscription-expiration-and-renewal"></a>Окончание срока действия подписки на программу для разработчиков Microsoft 365 и его продление
 
-Участвуя в программе для разработчиков Office 365, вы бесплатно получаете подписку для разработчиков Office 365. Ее можно продлить с учетом ваших действий по разработке. Но срок действия некоторых более старых подписок может закончиться. В этой статье показано, какие подписки продлять можно, а также рассказано, как это сделать.
+Участвуя в программе для разработчиков Microsoft 365, вы бесплатно получаете подписку для разработчиков Office 365 E3 или Microsoft 365 E5. Ее можно продлить с учетом ваших действий по разработке. Но срок действия некоторых более старых подписок может закончиться. В этой статье показано, какие подписки продлять можно, а также рассказано, как это сделать.
 
 ## <a name="expiring-vs-renewable-developer-subscriptions"></a>Сравнение подписок для разработчиков, которые можно и нельзя продлять
 
-С запуском программы для разработчиков Office 365 мы предложили соответствующие подписки на 12 месяцев, срок действия которых заканчивается без возможности продления. В августе 2018 г. мы начали предоставлять некоторым участникам этой программы подписки, срок действия которых можно продлить.
+С запуском программы для разработчиков Microsoft 365 мы предложили соответствующие подписки на 12 месяцев, срок действия которых заканчивается без возможности продления. В августе 2018 г. мы начали предоставлять некоторым участникам этой программы подписки, срок действия которых можно продлить.
 
 Начиная с апреля 2019 г. мы предлагаем подписки на 90 дней с возможностью продления.
 
-Чтобы узнать, возможно ли продлить срок действия вашей подписки, перейдите на [панель мониторинга программы для разработчиков Office 365](https://developer.microsoft.com/ru-RU/office/profile).
+Чтобы узнать, возможно ли продлить срок действия вашей подписки, перейдите на [панель мониторинга программы для разработчиков Microsoft 365](https://aka.ms/DevProgramDashboard).
 
 ## <a name="non-renewable-subscriptions"></a>Подписки без возможности продления
 
@@ -58,9 +58,9 @@ ms.locfileid: "36747119"
 
 Сведения о переносе данных из текущей подписки в новую приведены здесь:
 
-- [Перенос почтовых ящиков из одного клиента Office 365 в другой](https://docs.microsoft.com/exchange/mailbox-migration/migrate-mailboxes-across-tenants)
-- [Поэтапная миграция в Office 365 с помощью PowerShell](https://docs.microsoft.com/office365/enterprise/powershell/use-powershell-to-perform-a-staged-migration-to-office-365)
-- [Переход с одной подписки Office 365 на другую без сторонних средств](https://social.technet.microsoft.com/Forums/en-US/ee507441-eb91-4b0a-ba6c-5bd9bb8c71b1/migration-from-one-o365-tenant-to-another-o365-without-third-party?forum=onlineservicesmigrationandcoexistence)
+- [Перенос почтовых ящиков из одного клиента в другой](https://docs.microsoft.com/exchange/mailbox-migration/migrate-mailboxes-across-tenants)
+- [Поэтапная миграция с помощью PowerShell](https://docs.microsoft.com/office365/enterprise/powershell/use-powershell-to-perform-a-staged-migration-to-office-365)
+- [Переход с одной подписки на другую без сторонних средств](https://social.technet.microsoft.com/Forums/en-US/ee507441-eb91-4b0a-ba6c-5bd9bb8c71b1/migration-from-one-o365-tenant-to-another-o365-without-third-party?forum=onlineservicesmigrationandcoexistence)
 
 ## <a name="how-do-i-know-if-my-subscription-was-deleted"></a>Как узнать, удалена ли моя подписка?
 
@@ -70,10 +70,10 @@ ms.locfileid: "36747119"
 
 ## <a name="see-also"></a>См. также
 
-- [Присоединяйтесь к программе для разработчиков Office 365](office-365-developer-program.md)
-- [Настройка подписки разработчика Office 365](office-365-developer-program-get-started.md)
-- [Создание решений для Office 365 с помощью подписки](build-office-365-solutions.md)
-- [Вопросы и ответы о программе для разработчиков Office 365](office-365-developer-program-faq.md)
+- [Присоединяйтесь к программе для разработчиков Microsoft 365](microsoft-365-developer-program.md)
+- [Настройка подписки разработчика Microsoft 365](microsoft-365-developer-program-get-started.md)
+- [Создание решений для Microsoft 365 с помощью подписки](build-microsoft-365-solutions.md)
+- [Вопросы и ответы о программе для разработчиков Microsoft 365](microsoft-365-developer-program-faq.md)
 
 
 
